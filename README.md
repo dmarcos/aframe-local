@@ -2,7 +2,9 @@
 
 ## If only HTTP needed
 
-python -m SimpleHTTPServer 9000
+```
+python -m SimpleHTTPServer 8080
+```
 
 ## For HTTTPS
 
